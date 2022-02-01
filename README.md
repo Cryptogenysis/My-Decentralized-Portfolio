@@ -10,7 +10,7 @@ Web3 tech used:
 
 
 
-2) Metamask Wallet   (0x8D6d703c97Ce3BB480c4DE6aAc179073171670Ea)
+2) Metamask Wallet   (0xF11dE9f660c2Bba83771d7DAb1A8e3d8816cF1D2)
 
 
 
