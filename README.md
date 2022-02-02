@@ -29,14 +29,7 @@ Bootstrap4 (Responsiveness)
 
 
  The downside about using ENS technology, is that most browsers do not yet natively support these new web3 domain extensions. 
-
-
-
-This reminds me of when emojis were first introduced to the market
-
-in the early 2000's & not all devices could render them.
-
-
+This reminds me of when emojis were first introduced to the marketin the early 2000's & not all devices could render them.
 
 The only solution to work with web2 browsers that I have currently found is to point the browser directly to the IPFS gateway's hash URL (which looks disgusting🤢), instead of my actual Ethereum domain: nothingbutzero.x (dope AF😎)
 
