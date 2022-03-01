@@ -38,7 +38,7 @@ The only solution to work with current browsers, that I have currently found is 
 
 
 👇🏾Visit my portfolio here 👇🏾 
-
+https://bafybeih7eve5sdizrfwsa2y4ueej2bfcdchdm2lxv7i5szeeqxjqibvt7q.ipfs.infura-ipfs.io/
 
 
 
