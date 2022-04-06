@@ -37,11 +37,11 @@ The only solution to work with current browsers, that I have currently found is 
 
 
 
-👇🏾Visit my portfolio here 👇🏾 
+👇🏾Visit my portfolio here 👇🏾 <br>
 https://bafybeih7eve5sdizrfwsa2y4ueej2bfcdchdm2lxv7i5szeeqxjqibvt7q.ipfs.infura-ipfs.io/
 
 
 
-👇🏾Peep the source code here👇🏾
+👇🏾Peep the source code here👇🏾<br>
 
 https://github.com/Cryptogenysis/My-Decentralized-Portfolio
